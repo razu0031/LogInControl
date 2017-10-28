@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "361817559865",
+    "firebase_url": "https://logincontrol-9277c.firebaseio.com",
+    "project_id": "logincontrol-9277c",
+    "storage_bucket": "logincontrol-9277c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361817559865:android:012af5b00ef12048",
+        "android_client_info": {
+          "package_name": "com.bed.loginControl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361817559865-e64l79td43vnces2e24c9lge5rjbnu3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bed.loginControl",
+            "certificate_hash": "111b4c499ed31f9ecb36f6b8ffa4b92d1dbc6a83"
+          }
+        },
+        {
+          "client_id": "361817559865-lst3etnokcakb45ofi6ubado1qsm37e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwM1DnpTuvP48oN0NU9aJJIXEhWxR537s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361817559865-lst3etnokcakb45ofi6ubado1qsm37e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
